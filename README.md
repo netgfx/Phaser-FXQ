@@ -1,2 +1,7 @@
 # Phaser-FXQ
-A special effects and animation queue manager
+An effects manager for Phaser.io Javascript librarys
+
+
+
+
+
